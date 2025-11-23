@@ -1,6 +1,7 @@
 # STEM VizAI（Visualize Physics Math）
 
 一个将物理/数学题目（文本或示意图）直接可视化为可交互 HTML5 模拟的前端应用。支持多家主流大模型服务，内置本地持久化设置，开箱即用。
+已部署链接:https://xzid3qry.pinit.eth.limo/
 
 ## 主要特性
 
