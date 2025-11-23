@@ -1,0 +1,5 @@
+{
+  "name": "STEM VizAI",
+  "description": "An intelligent educational tool that converts text and image physics/math problems into interactive HTML5 simulations using Gemini API.",
+  "requestFramePermissions": []
+}
