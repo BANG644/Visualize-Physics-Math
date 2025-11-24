@@ -17,7 +17,7 @@
 
 ## 快速开始（在线）
 
-1. 打开在线站点：`https://6njaw4pe.pinit.eth.limo/`
+1. 打开在线站点：[`https://6njaw4pe.pinit.eth.limo/`](https://6njaw4pe.pinit.eth.limo/)
 2. 点击右上角“设置”图标，配置你的提供商：
    - 填写 `Base URL`、`API Path`、`模型ID`、`API Key`
    - 常见平台已提供默认值，可直接选择
