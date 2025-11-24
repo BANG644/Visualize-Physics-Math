@@ -17,7 +17,7 @@ A front‑end app that turns physics and math problems (text or diagram) into in
 
 ## Quick Start (Web)
 
-1. Open the live app: `https://6njaw4pe.pinit.eth.limo/`
+1. Open the live app: [`https://6njaw4pe.pinit.eth.limo/`](https://6njaw4pe.pinit.eth.limo/)
 2. Click the settings icon (top right) and configure your provider:
    - Set `Base URL`, `API Path`, `Model ID`, `API Key`
    - Use provided defaults for common providers
