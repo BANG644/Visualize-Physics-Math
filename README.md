@@ -2,7 +2,7 @@
 
 A front‑end app that turns physics and math problems (text or diagram) into interactive HTML5 simulations. It supports multiple AI providers, persists settings in the browser, and features one‑click examples to get you started fast.
 
-- Live app: https://xzid3qry.pinit.eth.limo/
+- Live app: https://6njaw4pe.pinit.eth.limo/
 - 中文文档: see [README.zh-CN.md](./README.zh-CN.md)
 
 ## Features
@@ -17,7 +17,7 @@ A front‑end app that turns physics and math problems (text or diagram) into in
 
 ## Quick Start (Web)
 
-1. Open the live app: `https://xzid3qry.pinit.eth.limo/`
+1. Open the live app: `https://6njaw4pe.pinit.eth.limo/`
 2. Click the settings icon (top right) and configure your provider:
    - Set `Base URL`, `API Path`, `Model ID`, `API Key`
    - Use provided defaults for common providers
