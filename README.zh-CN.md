@@ -2,7 +2,7 @@
 
 一个将物理/数学题目（文本或示意图）直接可视化为可交互 HTML5 模拟的前端应用。支持多家主流大模型服务，设置持久化到浏览器，示例一键运行，开箱即用。
 
-- 在线地址：https://6njaw4pe.pinit.eth.limo/
+- 在线地址：[https://6njaw4pe.pinit.eth.limo/](https://6njaw4pe.pinit.eth.limo/)
 - English: see [README.md](./README.md)
 
 ## 功能特性
